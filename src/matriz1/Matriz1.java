@@ -80,7 +80,7 @@ public class Matriz1 {
                          System.out.print(matriz[i][j]+ "  ");
                         
                     }else{
-                          System.out.print( "   ");
+                          System.out.print( "    ");
                     }               
             }
              System.out.println("\n");                
